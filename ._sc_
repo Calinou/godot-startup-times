@@ -1,0 +1,3 @@
+This file enables self-contained mode for Godot binaries, so that cold startup
+times are representative of what they would be on a fresh installation.
+The `editor_data/` folder must be removed after each cold run for the above to be true.
