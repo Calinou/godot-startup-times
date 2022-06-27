@@ -1,57 +1,57 @@
 | Command | Mean [s] | Min [s] | Max [s] | Relative |
 |:---|---:|---:|---:|---:|
-| `Godot_v3.0.1-stable` | 1.144 ± 0.006 | 1.140 | 1.148 | 1.14 ± 0.02 |
-| `Godot_v3.0.2-stable` | 1.160 ± 0.026 | 1.141 | 1.178 | 1.15 ± 0.03 |
-| `Godot_v3.0.3-stable` | 1.144 ± 0.030 | 1.123 | 1.165 | 1.14 ± 0.04 |
-| `Godot_v3.0.4-stable` | 1.135 ± 0.010 | 1.128 | 1.142 | 1.13 ± 0.02 |
-| `Godot_v3.0.5-stable` | 1.152 ± 0.002 | 1.150 | 1.153 | 1.15 ± 0.02 |
-| `Godot_v3.0.6-stable` | 1.138 ± 0.008 | 1.132 | 1.143 | 1.13 ± 0.02 |
-| `Godot_v3.1.1-stable` | 1.211 ± 0.015 | 1.201 | 1.222 | 1.21 ± 0.03 |
-| `Godot_v3.1.2-stable` | 1.191 ± 0.027 | 1.172 | 1.210 | 1.19 ± 0.04 |
-| `Godot_v3.1-stable` | 1.195 ± 0.013 | 1.186 | 1.205 | 1.19 ± 0.03 |
-| `Godot_v3.2.1-stable` | 1.203 ± 0.003 | 1.200 | 1.205 | 1.20 ± 0.02 |
-| `Godot_v3.2.2-stable` | 1.202 ± 0.015 | 1.191 | 1.213 | 1.20 ± 0.03 |
-| `Godot_v3.2.3-stable` | 1.189 ± 0.005 | 1.185 | 1.193 | 1.18 ± 0.02 |
-| `Godot_v3.2-stable` | 1.197 ± 0.000 | 1.197 | 1.197 | 1.19 ± 0.02 |
-| `Godot_v3.3.1-stable` | 1.405 ± 0.015 | 1.394 | 1.416 | 1.40 ± 0.03 |
-| `Godot_v3.3.2-stable` | 1.391 ± 0.030 | 1.370 | 1.413 | 1.38 ± 0.04 |
-| `Godot_v3.3.3-stable` | 1.408 ± 0.012 | 1.399 | 1.416 | 1.40 ± 0.03 |
-| `Godot_v3.3.4-stable` | 1.410 ± 0.002 | 1.409 | 1.412 | 1.40 ± 0.03 |
-| `Godot_v3.3-stable` | 1.400 ± 0.010 | 1.393 | 1.407 | 1.39 ± 0.03 |
-| `Godot_v3.4.1-stable` | 1.336 ± 0.032 | 1.314 | 1.358 | 1.33 ± 0.04 |
-| `Godot_v3.4.2-stable` | 1.305 ± 0.017 | 1.293 | 1.318 | 1.30 ± 0.03 |
-| `Godot_v3.4.3-stable` | 1.360 ± 0.002 | 1.358 | 1.361 | 1.35 ± 0.03 |
-| `Godot_v3.4.4-stable` | 1.367 ± 0.010 | 1.359 | 1.374 | 1.36 ± 0.03 |
-| `Godot_v3.4-stable` | 1.353 ± 0.003 | 1.351 | 1.355 | 1.35 ± 0.03 |
-| `Godot_v3.5-beta1` | 1.349 ± 0.039 | 1.321 | 1.377 | 1.34 ± 0.05 |
-| `Godot_v3.5-beta2` | 1.329 ± 0.005 | 1.326 | 1.333 | 1.32 ± 0.03 |
-| `Godot_v3.5-beta3` | 1.717 ± 0.004 | 1.714 | 1.720 | 1.71 ± 0.03 |
-| `Godot_v3.5-beta4` | 1.703 ± 0.014 | 1.693 | 1.713 | 1.70 ± 0.04 |
-| `Godot_v3.5-beta5` | 1.685 ± 0.030 | 1.664 | 1.706 | 1.68 ± 0.04 |
-| `Godot_v3.5-rc1` | 1.648 ± 0.019 | 1.635 | 1.662 | 1.64 ± 0.04 |
-| `Godot_v3.5-rc2` | 1.685 ± 0.032 | 1.662 | 1.708 | 1.68 ± 0.05 |
-| `Godot_v3.5-rc3` | 1.649 ± 0.026 | 1.630 | 1.667 | 1.64 ± 0.04 |
-| `Godot_v3.5-rc4` | 1.900 ± 0.059 | 1.859 | 1.942 | 1.89 ± 0.07 |
-| `Godot_v4.0-alpha10` | 2.027 ± 0.018 | 2.015 | 2.040 | 2.02 ± 0.04 |
-| `Godot_v4.0-alpha1` | 1.025 ± 0.026 | 1.006 | 1.043 | 1.02 ± 0.03 |
-| `Godot_v4.0-alpha2` | 1.017 ± 0.013 | 1.008 | 1.026 | 1.01 ± 0.02 |
-| `Godot_v4.0-alpha3` | 1.103 ± 0.036 | 1.078 | 1.128 | 1.10 ± 0.04 |
-| `Godot_v4.0-alpha4` | 1.097 ± 0.007 | 1.092 | 1.102 | 1.09 ± 0.02 |
-| `Godot_v4.0-alpha5` | 1.112 ± 0.019 | 1.099 | 1.126 | 1.11 ± 0.03 |
-| `Godot_v4.0-alpha6` | 1.545 ± 0.028 | 1.526 | 1.565 | 1.54 ± 0.04 |
-| `Godot_v4.0-alpha7` | 1.468 ± 0.006 | 1.464 | 1.473 | 1.46 ± 0.03 |
-| `Godot_v4.0-alpha8` | 1.501 ± 0.013 | 1.491 | 1.510 | 1.49 ± 0.03 |
-| `Godot_v4.0-alpha9` | 1.510 ± 0.014 | 1.500 | 1.519 | 1.50 ± 0.03 |
-| `Godot_v4.0-dev.20210727` | 1.031 ± 0.001 | 1.031 | 1.032 | 1.03 ± 0.02 |
-| `Godot_v4.0-dev.20210811` | 1.055 ± 0.068 | 1.007 | 1.103 | 1.05 ± 0.07 |
-| `Godot_v4.0-dev.20210820` | 1.055 ± 0.017 | 1.043 | 1.068 | 1.05 ± 0.03 |
-| `Godot_v4.0-dev.20210916` | 1.051 ± 0.066 | 1.005 | 1.098 | 1.05 ± 0.07 |
-| `Godot_v4.0-dev.20210924` | 1.179 ± 0.098 | 1.110 | 1.248 | 1.17 ± 0.10 |
-| `Godot_v4.0-dev.20211004` | 1.161 ± 0.090 | 1.097 | 1.224 | 1.15 ± 0.09 |
-| `Godot_v4.0-dev.20211015` | 1.083 ± 0.023 | 1.067 | 1.099 | 1.08 ± 0.03 |
-| `Godot_v4.0-dev.20211027` | 1.078 ± 0.009 | 1.072 | 1.084 | 1.07 ± 0.02 |
-| `Godot_v4.0-dev.20211108` | 1.005 ± 0.027 | 0.986 | 1.024 | 1.00 ± 0.03 |
-| `Godot_v4.0-dev.20211117` | 1.005 ± 0.019 | 0.991 | 1.018 | 1.00 |
-| `Godot_v4.0-dev.20211210` | 1.027 ± 0.029 | 1.006 | 1.047 | 1.02 ± 0.03 |
-| `Godot_v4.0-dev.20220105` | 1.057 ± 0.018 | 1.044 | 1.069 | 1.05 ± 0.03 |
-| `Godot_v4.0-dev.20220118` | 1.032 ± 0.010 | 1.025 | 1.040 | 1.03 ± 0.02 |
+| `benchmark-project-manager Godot_v3.0.1-stable_x11.64` | 1.150 ± 0.003 | 1.145 | 1.158 | 1.23 ± 0.03 |
+| `benchmark-project-manager Godot_v3.0.2-stable_x11.64` | 1.151 ± 0.004 | 1.146 | 1.160 | 1.23 ± 0.03 |
+| `benchmark-project-manager Godot_v3.0.3-stable_x11.64` | 1.144 ± 0.003 | 1.139 | 1.150 | 1.23 ± 0.03 |
+| `benchmark-project-manager Godot_v3.0.4-stable_x11.64` | 1.144 ± 0.003 | 1.138 | 1.153 | 1.23 ± 0.03 |
+| `benchmark-project-manager Godot_v3.0.5-stable_x11.64` | 1.146 ± 0.004 | 1.140 | 1.156 | 1.23 ± 0.03 |
+| `benchmark-project-manager Godot_v3.0.6-stable_x11.64` | 1.145 ± 0.004 | 1.140 | 1.160 | 1.23 ± 0.03 |
+| `benchmark-project-manager Godot_v3.1.1-stable_x11.64` | 1.209 ± 0.008 | 1.202 | 1.242 | 1.30 ± 0.03 |
+| `benchmark-project-manager Godot_v3.1.2-stable_x11.64` | 1.210 ± 0.004 | 1.204 | 1.219 | 1.30 ± 0.03 |
+| `benchmark-project-manager Godot_v3.1-stable_x11.64` | 1.212 ± 0.010 | 1.201 | 1.240 | 1.30 ± 0.03 |
+| `benchmark-project-manager Godot_v3.2.1-stable_x11.64` | 1.205 ± 0.008 | 1.197 | 1.230 | 1.29 ± 0.03 |
+| `benchmark-project-manager Godot_v3.2.2-stable_x11.64` | 1.210 ± 0.012 | 1.195 | 1.239 | 1.30 ± 0.03 |
+| `benchmark-project-manager Godot_v3.2.3-stable_x11.64` | 1.208 ± 0.012 | 1.192 | 1.231 | 1.29 ± 0.03 |
+| `benchmark-project-manager Godot_v3.2-stable_x11.64` | 1.217 ± 0.013 | 1.201 | 1.271 | 1.30 ± 0.03 |
+| `benchmark-project-manager Godot_v3.3.1-stable_x11.64` | 1.793 ± 0.406 | 1.403 | 2.218 | 1.92 ± 0.44 |
+| `benchmark-project-manager Godot_v3.3.2-stable_x11.64` | 1.752 ± 0.415 | 1.356 | 2.220 | 1.88 ± 0.45 |
+| `benchmark-project-manager Godot_v3.3.3-stable_x11.64` | 1.771 ± 0.430 | 1.356 | 2.216 | 1.90 ± 0.46 |
+| `benchmark-project-manager Godot_v3.3.4-stable_x11.64` | 1.857 ± 0.405 | 1.404 | 2.217 | 1.99 ± 0.44 |
+| `benchmark-project-manager Godot_v3.3-stable_x11.64` | 1.860 ± 0.405 | 1.404 | 2.222 | 1.99 ± 0.44 |
+| `benchmark-project-manager Godot_v3.4.1-stable_x11.64` | 1.815 ± 0.456 | 1.305 | 2.220 | 1.95 ± 0.49 |
+| `benchmark-project-manager Godot_v3.4.2-stable_x11.64` | 1.656 ± 0.428 | 1.305 | 2.224 | 1.78 ± 0.46 |
+| `benchmark-project-manager Godot_v3.4.3-stable_x11.64` | 1.888 ± 0.440 | 1.305 | 2.221 | 2.02 ± 0.47 |
+| `benchmark-project-manager Godot_v3.4.4-stable_x11.64` | 1.707 ± 0.455 | 1.306 | 2.218 | 1.83 ± 0.49 |
+| `benchmark-project-manager Godot_v3.4-stable_x11.64` | 1.925 ± 0.427 | 1.308 | 2.225 | 2.06 ± 0.46 |
+| `benchmark-project-manager Godot_v3.5-beta1_x11.64` | 1.852 ± 0.452 | 1.307 | 2.225 | 1.98 ± 0.49 |
+| `benchmark-project-manager Godot_v3.5-beta2_x11.64` | 1.744 ± 0.458 | 1.306 | 2.214 | 1.87 ± 0.49 |
+| `benchmark-project-manager Godot_v3.5-beta3_x11.64` | 1.900 ± 0.307 | 1.603 | 2.222 | 2.04 ± 0.33 |
+| `benchmark-project-manager Godot_v3.5-beta4_x11.64` | 1.948 ± 0.305 | 1.606 | 2.225 | 2.09 ± 0.33 |
+| `benchmark-project-manager Godot_v3.5-beta5_x11.64` | 1.900 ± 0.308 | 1.606 | 2.235 | 2.04 ± 0.33 |
+| `benchmark-project-manager Godot_v3.5-rc1_x11.64` | 1.877 ± 0.305 | 1.605 | 2.222 | 2.01 ± 0.33 |
+| `benchmark-project-manager Godot_v3.5-rc2_x11.64` | 1.899 ± 0.307 | 1.603 | 2.225 | 2.03 ± 0.33 |
+| `benchmark-project-manager Godot_v3.5-rc3_x11.64` | 1.902 ± 0.304 | 1.605 | 2.217 | 2.04 ± 0.33 |
+| `benchmark-project-manager Godot_v3.5-rc4_x11.64` | 2.118 ± 0.309 | 1.773 | 2.430 | 2.27 ± 0.33 |
+| `benchmark-project-manager Godot_v4.0-alpha10_linux.64` | 1.934 ± 0.023 | 1.910 | 2.001 | 2.07 ± 0.05 |
+| `benchmark-project-manager Godot_v4.0-alpha1_linux.64` | 0.983 ± 0.014 | 0.955 | 1.020 | 1.05 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-alpha2_linux.64` | 0.933 ± 0.020 | 0.903 | 1.002 | 1.00 |
+| `benchmark-project-manager Godot_v4.0-alpha3_linux.64` | 1.063 ± 0.024 | 1.005 | 1.092 | 1.14 ± 0.04 |
+| `benchmark-project-manager Godot_v4.0-alpha4_linux.64` | 1.073 ± 0.021 | 1.037 | 1.121 | 1.15 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-alpha5_linux.64` | 1.067 ± 0.017 | 1.039 | 1.112 | 1.14 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-alpha6_linux.64` | 1.496 ± 0.016 | 1.469 | 1.531 | 1.60 ± 0.04 |
+| `benchmark-project-manager Godot_v4.0-alpha7_linux.64` | 1.447 ± 0.014 | 1.422 | 1.481 | 1.55 ± 0.04 |
+| `benchmark-project-manager Godot_v4.0-alpha8_linux.64` | 1.451 ± 0.017 | 1.428 | 1.493 | 1.55 ± 0.04 |
+| `benchmark-project-manager Godot_v4.0-alpha9_linux.64` | 1.460 ± 0.016 | 1.440 | 1.500 | 1.56 ± 0.04 |
+| `benchmark-project-manager Godot_v4.0-dev.20210727_linux.64` | 0.987 ± 0.022 | 0.960 | 1.054 | 1.06 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20210811_linux.64` | 0.996 ± 0.017 | 0.970 | 1.035 | 1.07 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20210820_linux.64` | 0.994 ± 0.028 | 0.974 | 1.124 | 1.07 ± 0.04 |
+| `benchmark-project-manager Godot_v4.0-dev.20210916_linux.64` | 1.001 ± 0.016 | 0.974 | 1.052 | 1.07 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20210924_linux.64` | 1.047 ± 0.037 | 0.993 | 1.147 | 1.12 ± 0.05 |
+| `benchmark-project-manager Godot_v4.0-dev.20211004_linux.64` | 1.067 ± 0.014 | 1.048 | 1.103 | 1.14 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20211015_linux.64` | 1.079 ± 0.017 | 1.060 | 1.122 | 1.16 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20211027_linux.64` | 0.955 ± 0.008 | 0.937 | 0.973 | 1.02 ± 0.02 |
+| `benchmark-project-manager Godot_v4.0-dev.20211108_linux.64` | 0.944 ± 0.017 | 0.916 | 0.988 | 1.01 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20211117_linux.64` | 0.946 ± 0.014 | 0.925 | 0.984 | 1.01 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20211210_linux.64` | 0.961 ± 0.013 | 0.936 | 0.989 | 1.03 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20220105_linux.64` | 0.987 ± 0.015 | 0.961 | 1.012 | 1.06 ± 0.03 |
+| `benchmark-project-manager Godot_v4.0-dev.20220118_linux.64` | 0.995 ± 0.018 | 0.957 | 1.040 | 1.07 ± 0.03 |

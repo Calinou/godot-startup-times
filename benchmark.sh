@@ -179,7 +179,7 @@ for i in *.64; do
 done
 
 # Number of runs to perform (must be greater than or equal to 2).
-RUNS=2
+RUNS=25
 
 # Remove `editor_data/` folder after every version run to make sure warm run results are scoped to every version.
 hyperfine --warmup 1 --runs $RUNS "${commands_project_manager_cold[@]}" --cleanup "rm -rf editor_data/" --export-csv project_manager_cold.csv --export-json project_manager_cold.json --export-markdown project_manager_cold.md
